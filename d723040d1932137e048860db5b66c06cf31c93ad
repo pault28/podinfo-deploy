@@ -1,0 +1,1 @@
+{"jobID":"086eb593-2e9a-c2ec-88ab-86d6153aa3fc","spec":{"type":"policy","cause":{"Message":"Testing unlocking","User":"Paul Tinagbedia \u003ctinaopaul@yahoo.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"Testing unlocking\"","locked_user":"Paul Tinagbedia \u003ctinaopaul@yahoo.com\u003e"}}}},"result":null}
