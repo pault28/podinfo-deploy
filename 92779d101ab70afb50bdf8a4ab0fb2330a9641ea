@@ -1,0 +1,1 @@
+{"jobID":"45de9360-1339-f5cb-bf5d-2d5c7206259c","spec":{"type":"policy","cause":{"Message":"","User":"Paul Tinagbedia \u003ctinaopaul@yahoo.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"automated":"true"}}}},"result":null}
